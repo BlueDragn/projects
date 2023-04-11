@@ -1,5 +1,6 @@
 # Web Development Projects and Resources
-![Chris O'Dowd IT Crowd GIF](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
+
+<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" alt="Chris O'Dowd IT Crowd GIF" width="500" height="400">
 
 
 This repository is a showcase of different types of projects and resources that I have used to improve my skills in web development.
