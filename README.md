@@ -22,7 +22,7 @@ Pair programming is a technique where two developers work together on the same c
 
 ## Hackathon Projects
 
-Hackathons are events where developers come together to collaborate on building a project over a short period of time, usually 24-48 hours. These events are great for improving your skills, networking with other developers, and building your portfolio.
+Hackathons are events where developers come together to collaborate on building a project over a short period of time, usually 24-48 hours or week long. These events are great for improving your skills, networking with other developers, and building your portfolio.
 
 ## Front End Mentors
 
