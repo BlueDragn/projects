@@ -16,7 +16,7 @@ This repository is a showcase of different types of projects and resources that 
 
 Chingu is a platform that brings together developers from around the world to work on projects in teams called "Voyages". These Voyages are focused on building real-world applications and provide a supportive community to help developers improve their skills.
 
-## Pair Programming
+## [Pair Programming](https://github.com/BlueDragn/pair-programming)
 
 Pair programming is a technique where two developers work together on the same codebase. This can be a great way to learn from each other, share ideas, and improve code quality.
 
