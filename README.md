@@ -11,6 +11,8 @@ This repository is a showcase of different types of projects and resources that 
 - [Pair Programming](#pair-programming)
 - [Hackathon Projects](#hackathon-projects)
 - [Front End Mentors](#front-end-mentors)
+- [FreeCodeCamp](#FreeCodeCamp)
+- [The Odin Project](#The-Odin-Projec)
 
 ## Chingu Voyages
 
@@ -29,7 +31,8 @@ Hackathons are events where developers come together to collaborate on building 
 Front End Mentors is a platform that provides real-world design challenges for developers to work on. These challenges are designed to help developers improve their skills in front-end development, including HTML, CSS, and JavaScript.
 
 If you are interested in my work and would like to get in touch with me, please feel free to contact me at [insert email address or other contact information].
-
+## FreeCodeCamp
+## The Odin Project
 ## License
 
 This repository is licensed under the MIT license. See the LICENSE file for more details.
