@@ -12,7 +12,7 @@ This repository is a showcase of different types of projects and resources that 
 - [Hackathon Projects](#hackathon-projects)
 - [Front End Mentors](#front-end-mentors)
 - [FreeCodeCamp](#FreeCodeCamp)
-- [The Odin Project](#the-odin-projec)
+- [The Odin Project](#the-odin-project)
 
 ## Chingu Voyages
 
