@@ -22,7 +22,7 @@ Chingu is a platform that brings together developers from around the world to wo
 
 Pair programming is a technique where two developers work together on the same codebase. This can be a great way to learn from each other, share ideas, and improve code quality.
 
-## Hackathon Projects
+## [Hackathon Projects](https://github.com/BlueDragn/projects/tree/main/Hackathon_Projects) 
 
 Hackathons are events where developers come together to collaborate on building a project over a short period of time, usually 24-48 hours or week long. These events are great for improving your skills, networking with other developers, and building your portfolio.
 
