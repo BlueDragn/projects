@@ -32,7 +32,7 @@ Front End Mentors is a platform that provides real-world design challenges for d
 
 If you are interested in my work and would like to get in touch with me, please feel free to contact me at [insert email address or other contact information].
 ## [FreeCodeCamp](https://github.com/BlueDragn/projects/tree/main/Chingu_Voyages)
-## The Odin Project
+## [The Odin Project](https://github.com/BlueDragn/projects/tree/main/The_Odin_Project)
 ## License
 
 This repository is licensed under the MIT license. See the LICENSE file for more details.
