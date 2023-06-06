@@ -1,0 +1,144 @@
+html{
+    background-color:white;
+  }
+  
+  
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#5dacbd;
+    width: 100%;
+    }
+  
+  
+  .main-header{
+    margin:0 0 5px 0;
+    background-color:#24527a;
+    text-align: center;
+    padding:20px;
+    color:#e0ebeb;
+    
+    
+  }
+  #title{
+    font-size:35px;
+    }
+  
+  
+  #survey-form{
+    
+    height:auto;
+    margin:50px 20px 0 20px;
+    padding:50px 50px 0 50px;
+    font-size:20px;
+    color:#27296d;
+    
+    
+  }
+  .form-group{
+    border: none;
+    width:auto;
+    height:auto;
+    margin:5px 0 0 0;
+    padding:auto;
+    background-color:#5dacbd;
+   }
+  
+  
+     /*name label*/
+  
+  #name-label{
+    padding:auto;
+    margin:15px;
+  }
+  
+  
+  #name{
+     width:500px;
+     height:30px;
+    
+  }
+  
+  
+  .form-control{
+    margin:10px;
+    border-radius:10px;
+   
+  }
+  
+  /* Email label */
+  
+  
+  #email-label{
+    padding:auto;
+    margin:10px;
+  }
+  
+  
+  #email{
+    width:500px;
+    height:30px;
+  }
+  
+  
+  /*Age section */
+  #number-label{
+    margin:15px;
+  
+    
+    
+  .clue{
+    font-size:15px;
+  }
+  
+    
+  #number{
+    width:500px;
+     height:30px;
+  }
+    
+    
+  #dropdown{
+    width:500px;
+     height:30px;
+    
+  }
+    
+    
+  .form-group p{
+    margin:15px;
+  }
+    
+    
+  .input-radio{
+    margin:15px;
+    line-break:loose;
+  }
+    
+    
+  #most-like{
+   width:500px;
+    height:30px;
+    
+  }
+    
+    
+  .input-checkbox{
+   margin-left:20px;
+   
+  }
+    
+    
+  #comment{
+   border-color:green;
+    border-radius:10%;
+    width:600px;}
+  
+    
+  #submit{
+    width:100px;
+    height:30px;
+    margin-top:10px;
+    margin-left:5px;
+    color:green;
+  }
+  
