@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,200;1,300&display=swap");
+* {
+  --color1: #0a0a0a; /*black*/
+  --color2: #fca311; /*golden */
+  --color3: #f5f5f5; /*white */
+  --color4: #e5e5e5; /*gray */
+  --color5: #14213d; /*oxford blue */
+}
+
+html {
+  font-size: 20px;
+  background-color: var(--color5);
+  color: var(--color2);
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/********** HEADER STYLELING **************/
+#header {
+  background-color: var(--color1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.header {
+  height: 100px;
+  width: 100%;
+}
+/*********LOGO *********/
+.logo-header {
+  width: 100px;
+  height: 10px;
+}
+.logo-image {
+  border-radius: 10%;
+}
+/**********NAVIGATION ************/
+.nav-container {
+  margin-top: 0;
+  height: 0px;
+  margin-left: 120px;
+}
+#nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  margin-top: 0;
+  padding-top: 10px;
+  margin-left: 100px;
+}
+
+.nav-bar {
+  margin-top: 0;
+  margin-bottom: 20px;
+  margin-right: 120px;
+  padding-left: 100px;
+}
+.nav-link {
+  display: block;
+  margini-top: 20px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  color: var(--color2);
+  text-decoration: none;
+}
+
+/********************** MAIN BEGIN ***********************/
+
+.main {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+/**************** EMAIL SECTION ************/
+#email-sinup {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/************ CONTAINER BEGIN ************/
+.container {
+  margin-top: 0;
+  padding: 0;
+}
+
+/********* HERO SECTION ******************/
+#hero {
+  text-align: center;
+  margin-top: 0;
+}
+
+#hero > h2 {
+  display: block;
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 1.5rem;
+}
+
+#form {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+label {
+}
+#name-label {
+  width: 100%;
+  height: 2em;
+  margin: 10px;
+  font-size: 1.1rem;
+}
+#email-label {
+  width: 100%;
+  height: 2em;
+  margin: 10px;
+  font-size: 1.1rem;
+}
+#submit {
+}
+.submit-button {
+  max-width: 200px;
+  text-align: center;
+  display: block;
+  width: 40%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+}
+
+.form-control {
+  border: solid black;
+}
+
+/***** HOME SECTION *****************/
+#home {
+}
+.desc {
+}
+
+/**** GAMING SECTION *****/
+#gaming {
+}
+/************ PC SECTION *************/
+#pc {
+}
+/*********** PLAY STATION SECTION *******/
+
+#play_station {
+}
+
+/************ TORNAMENT SECTION *************/
+
+#tornaments {
+}
+
+/************************ MAIN ENDS *************/
+
+/******** MEDIA QUERY *************/
+@media {
+}
